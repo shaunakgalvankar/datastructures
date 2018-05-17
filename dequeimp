@@ -1,0 +1,20 @@
+Last login: Wed May 16 12:36:42 on ttys000
+shaunak:deque shaunakgalvankar$ cd desktop/computing/python/datastructures/deque
+-bash: cd: desktop/computing/python/datastructures/deque: No such file or directory
+shaunak:deque shaunakgalvankar$ python3 deque.py
+[3, 2, 1, 1, 2, 3]
+[1, 1]
+2
+False
+shaunak:deque shaunakgalvankar$ 
+
+
+
+
+
+
+
+
+
+
+
